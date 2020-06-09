@@ -1,0 +1,11 @@
+body{
+background-color: #7d3cff;
+
+}
+h1{
+	font-family: 'Times New Roman', Times, serif;
+	color: white;
+}
+.container,hover{
+	background-color:#f2d53c;
+}
